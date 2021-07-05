@@ -84,3 +84,8 @@ ul li h2{
 .weather-location h3:nth-child(1){
   font-size: 3rem;
 }
+.weather-icon{
+  position: absolute;
+  bottom: 40px;
+  left: 500px;
+}

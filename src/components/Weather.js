@@ -14,6 +14,10 @@ const Weather = ({tempCelsious, tempFarenheit, state, country, icon, description
                 <h3>{state}</h3>
                 <h5>{country}</h5>
             </div>
+            <div className='weather-icon'>
+                <img src={icon} alt=''/>
+                <h4>{description}</h4>
+            </div>
         </div>
     )
 }
