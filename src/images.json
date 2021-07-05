@@ -1,0 +1,149 @@
+{
+    "Sunny" : {
+        "img" : "https://i.pinimg.com/originals/16/9a/30/169a3011c75e859d0858a28fe01086cf.jpg"
+        },
+    "Clear" : {
+        "img" : "https://i.pinimg.com/originals/16/9a/30/169a3011c75e859d0858a28fe01086cf.jpg"
+        },
+    "Partly cloudy" : {
+        "img" : "https://www.winwallpapers.net/w1/2011/10/Partly-Cloudy.jpg"
+        },
+    "Cloudy" : {
+        "img" : "https://www.imgbase.info/images/safe-wallpapers/photography/sky/16822_sky_clouds_above_clouds.jpg"
+        },
+    "Overcast" : {
+        "img" : "https://wallpaperstock.net/road%2c-marking%2c-trees%2c-overcast-wallpapers_54920_1920x1080.jpg"
+        },
+    "Mist" : {
+        "img" : "https://i.pinimg.com/originals/ac/1a/0f/ac1a0f68ba83debd11d67d0832b1cef8.jpg"
+        },
+    "Patchy rain possible" : {
+        "img" : "https://wallpaperaccess.com/full/1170390.jpg"
+        },
+    "Patchy snow possible" : {
+        "img" : "https://wallpapercave.com/wp/wp8172556.jpg"
+        },
+    "Patchy sleet possible" : {
+        "img" : "https://wallpaperaccess.com/full/820237.jpg"
+        },
+    "Patchy freezing drizzle possible" : {
+        "img" : "https://fondosmil.com/fondo/7377.jpg"
+        },
+    "Thundery outbreaks possible" : {
+        "img" : "https://fondosmil.com/fondo/63651.jpg"
+        },
+    "Blowing snow" : {
+        "img" : "https://pavbca.com/walldb/original/9/d/1/255505.jpg"
+        },
+    "Blizzard" : {
+        "img" : "https://wallpapercave.com/wp/wp5001098.jpg"
+        },
+    "Fog" : {
+        "img" : "https://www.imgbase.info/images/safe-wallpapers/photography/forest/59842-forest_fog_wallpaper.jpg"
+        },
+    "Freezing fog" : {
+        "img" : "https://www.teahub.io/photos/full/19-199727_winter-fog.jpg"
+        },
+    "Patchy light drizzle" : {
+        "img" : "https://wallpapercave.com/wp/wp4712914.jpg"
+        },
+    "Light drizzle" : {
+        "img" : "https://c.wallhere.com/photos/76/f0/landscape_road_rain-165616.jpg!d"
+        },
+    "Freezing drizzle" : {
+        "img" : "https://todayshomeowner.com/wp-content/uploads/2020/02/icicles-on-fir-tree-branch-during-freezing-temperatures.jpg"
+        },
+    "Heavy freezing drizzle" : {
+        "img" : "https://images.alphacoders.com/208/208781.jpg"
+        },
+    "Patchy light rain" : {
+        "img" : "https://wallpaperaccess.com/full/1363316.jpg"
+        },
+    "Light rain" : {
+        "img" : "https://i.redd.it/lyyqsy1arru21.jpg"
+        },
+    "Moderate rain at times" : {
+        "img" : "https://wallpaperaccess.com/full/3204899.jpg"
+        },
+    "Moderate rain" : {
+        "img" : "https://images6.alphacoders.com/577/577827.jpg"
+        },
+    "Heavy rain at times" : {
+        "img" : "https://elcentronews.net/wp-content/uploads/2020/06/3-18.jpg"
+        },
+    "Heavy rain" : {
+        "img" : "https://images7.alphacoders.com/522/522532.jpg"
+        },
+    "Light freezing rain" : {
+        "img" : "https://www.wallpapertip.com/wmimgs/8-81744_src-snow-hd-wallpaper-hd-1080p-data-id.jpg"
+        },
+    "Moderate or heavy freezing rain" : {
+        "img" : "https://news.wttw.com/sites/default/files/field/image/SnowChicagoDavidMarkPixabay.jpg"
+        },
+    "Light sleet" : {
+        "img" : "https://i.pinimg.com/originals/5b/bf/b3/5bbfb35f5b8044b4ad9956c24dd8c4f2.jpg"
+        },
+    "Moderate or heavy sleet" : {
+        "img" : "https://wallpaperaccess.com/full/2551849.jpg"
+        },
+    "Patchy light snow" : {
+        "img" : "https://wallpaperaccess.com/full/5042743.jpg"
+        },
+    "Light snow" : {
+        "img" : "https://i.pinimg.com/originals/57/95/69/579569573a1c0d17726b7b502d72453e.jpg"
+        },
+    "Patchy moderate snow" : {
+        "img" : "https://wallpapercave.com/wp/wp8172646.jpg"
+        },
+    "Moderate snow" : {
+        "img" : "http://images6.fanpop.com/image/photos/43000000/Winter-winter-43083513-1920-1080.jpg"
+        },
+    "Patchy heavy snow" : {
+        "img" : "https://images6.alphacoders.com/462/462005.jpg"
+        },
+    "Heavy snow" : {
+        "img" : "https://wallpaperaccess.com/full/419136.jpg"
+        },
+    "Ice pellets" : {
+        "img" : "https://images3.alphacoders.com/124/thumb-1920-124429.jpg"
+        },
+    "Light rain shower" : {
+        "img" : "https://picfiles.alphacoders.com/307/307199.jpg"
+        },
+    "Moderate or heavy rain shower" : {
+        "img" : "http://7-themes.com/data_images/out/65/6995493-rainforest-pictures.jpg"
+    },
+    "Torrential rain shower" : {
+        "img" : "https://cdn.wallpapersafari.com/55/79/oemisl.jpg"
+    },
+    "Light sleet showers" : {
+        "img" : "https://fondosmil.com/fondo/27683.jpg"
+    },
+    "Moderate or heavy sleet showers" : {
+        "img" : "https://fondosmil.com/fondo/27667.jpg"
+    },
+    "Light snow showers" : {
+        "img" : "https://wallpaperaccess.com/full/1125350.jpg"
+    },
+    "Moderate or heavy snow showers" : {
+        "img" : "https://wallpaperaccess.com/full/444750.jpg"
+    },
+    "Light showers of ice pellets" : {
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2013-01-24_Ice_pellets_and_glaze_from_freezing_rain_on_a_car_at_night_in_Elko%2C_Nevada.jpg/800px-2013-01-24_Ice_pellets_and_glaze_from_freezing_rain_on_a_car_at_night_in_Elko%2C_Nevada.jpg"
+    },
+    "Moderate or heavy showers of ice pellets" : {
+        "img" : "https://wallpaperaccess.com/full/1355702.jpg"
+    },
+    "Patchy light rain with thunder" : {
+        "img" : "https://i.pinimg.com/originals/c2/d3/99/c2d3999e21b3325c77b97a0dce190dae.jpg"
+    },
+    "Moderate or heavy rain with thunder" : {
+        "img" : "https://www.wallpapertip.com/wmimgs/12-129465_lightning-and-thunder-background.jpg"
+    },
+    "Patchy light snow with thunder" : {
+        "img" : "https://cdn.wallpapersafari.com/37/81/QMj8k4.jpg"
+    },
+    "Moderate or heavy snow with thunder" : {
+        "img" : "https://s2.best-wallpaper.net/wallpaper/1920x1080/1712/Thunderstorm-lightning-clouds-city-sea-night_1920x1080.jpg"
+    }
+}

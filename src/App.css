@@ -1,0 +1,82 @@
+*,
+*::after,
+*::before{
+  box-sizing: border-box;
+  color: #fff;
+}
+.weather-img{
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+}
+.weather-container{
+  width: 100vw;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.weather-info{
+  height: 100vh;
+  background: rgba(255, 255, 255, 0.4);
+  backdrop-filter: blur(10px);
+  width: 40%;
+  min-width: 300px;
+  position: absolute;
+  right: 0;
+  list-style: none;
+}
+.weather-info li{
+  position: relative;
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+.weather-info li .weather-info__content{
+  color: #fff;
+  margin-bottom: 60px;
+}
+.weather-info li .weather-info__content h3{
+  display: inline-block;
+  position: absolute;
+  left: 10%;
+}
+.weather-info li .weather-info__content .weather-info__content-data{
+  position: absolute;
+  right: 10%;
+}
+.separator{
+  width: 80%;
+  height: 3px;
+  background-color: rgba(204, 204, 204, 0.61);
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+ul li h2{
+  position: absolute;
+  left: 10%;
+  top: 40px;
+}
+.weather{
+  position: absolute;
+  bottom: 100px;
+  left: 100px;
+  display: flex;
+}
+.weather-content button{
+  font-size: 7rem;
+  font-weight: 400;
+  background: none;
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+.weather-location{
+  position: absolute;
+  bottom: 88px;
+  left: 280px;
+}
+.weather-location h3:nth-child(1){
+  font-size: 3rem;
+}
